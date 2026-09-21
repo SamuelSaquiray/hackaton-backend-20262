@@ -1,0 +1,8 @@
+{
+  "equipo": "G00",
+  "integrantes": [
+    { "nombre": "Samuel Saquiray", "codigo": "202310697" },
+    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
+    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+  ]
+}
