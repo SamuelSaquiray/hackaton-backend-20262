@@ -1,8 +1,8 @@
 {
-  "equipo": "G00",
+  "equipo": "G07",
   "integrantes": [
     { "nombre": "Samuel Saquiray", "codigo": "202310697" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Kelly Shirley Carhuancho Mayta ", "codigo": "202310676" },
+    { "nombre": "Juan Pablo Esteban Portugal Gutierrez ", "codigo": "202310185" }
   ]
 }
